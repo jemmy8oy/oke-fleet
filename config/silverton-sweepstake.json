@@ -1,6 +1,6 @@
 {
   "appName": "silverton-sweepstake",
-  "chartRepo": "https://github.com/jemmy8oy/silverton-sweepstake",
+  "chartRepo": "https://github.com/jemmy8oy/silverton-sweepstake.git",
   "chartPath": "helm",
   "chartName": "silverton-sweepstake",
   "chartVersion": "*",
