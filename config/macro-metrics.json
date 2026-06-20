@@ -1,6 +1,6 @@
 {
   "appName": "macro-metrics",
-  "repoURL": "https://github.com/jemmy8oy/macro-metrics.git",
+  "repoURL": "https://github.com/jemmy8oy-northstar/macro-metrics.git",
   "chartPath": "helm",
   "targetNamespace": "balenthiran"
 }
