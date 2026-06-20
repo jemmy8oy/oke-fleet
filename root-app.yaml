@@ -7,7 +7,7 @@ spec:
   project: default
   source:
     repoURL: https://github.com/jemmy8oy/oke-fleet.git
-    targetRevision: HEAD
+    targetRevision: main
     path: apps-root
   destination:
     server: https://kubernetes.default.svc
